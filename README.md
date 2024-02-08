@@ -6,6 +6,9 @@
 
 A fully-featured event store and message store implemented in PostgreSQL for Pub/Sub, Event Sourcing, Messaging, and Evented Microservices applications.
 
+## Sideslip TODO
+- [ ] parametrise, i.e. take DB name, table name, role name, etc. 
+
 ## Features
 
 - Pub/Sub
